@@ -34,6 +34,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 ---
 
 ## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://twitter.com/amityadav847409" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
@@ -61,7 +62,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 ## 🛠 Skills & Technologies
 
 ### 🔹 Languages
-- **Java**, JavaScript, SQL
+- **Java**, JavaScript, **SQL**
 
 ### 🔹 Frontend
 - HTML, CSS, React.js, Tailwind CSS
@@ -70,7 +71,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 - Node.js, Express.js, RESTful APIs
 
 ### 🔹 Databases
-- MongoDB, MySQL, PostgreSQL
+- MongoDB, MySQL, **PostgreSQL**
 
 ### 🔹 Core CS
 - Data Structures & Algorithms, OOPs, DBMS
@@ -78,6 +79,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 ---
 
 ## 🧰 Languages & Tools (Row-wise)
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>&nbsp;&nbsp;
@@ -88,6 +90,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
@@ -116,22 +119,3 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 - ✅ Solved **225+ DSA problems** on LeetCode
 - 📜 Certified in **MERN Full Stack Development**
 - 📜 Certified in **DSA in Java (Apna College)** and **SQL (Scaler)**
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img align="left"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumaryadav2672&layout=compact" />
-</p>
-
-<p>&nbsp;
-  <img align="center"
-  src="https://github-readme-stats.vercel.app/api?username=amitkumaryadav2672&show_icons=true" />
-</p>
-
-<p>
-  <img align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumaryadav2672" />
-</p>
