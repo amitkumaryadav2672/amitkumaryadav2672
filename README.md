@@ -78,7 +78,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 
 ---
 
-## 🧰 Languages & Tools (Row-wise)
+## 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>&nbsp;&nbsp;
@@ -99,23 +99,31 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 
 ## 🚀 Projects
 
-### 🔹 Tailor Service Booking Platform — Full Stack Developer
+### 🔹 Tailor Service Booking Platform — Full Stack Developer  
 **Tech:** React.js · Node.js · Express.js · MongoDB  
-- Designed and implemented **RESTful APIs** for authentication and booking
-- Built backend services for user profiles, services, and bookings
-- Developed an **admin dashboard** for tracking appointments and customers
 
-### 🔹 Skill Bridge India — Learn, Work & Earn Platform
-**Tech:** React.js · Node.js · Express.js · MongoDB  
-- Built REST APIs for user management and job matching
-- Implemented **course progress & certification tracking**
-- Added role-based access for learners and contributors
+- Designed and implemented **RESTful APIs** for authentication and booking  
+- Built backend services for user profiles, services, and bookings  
+- Developed an **admin dashboard** for tracking appointments and customers  
+
+### 🔹 AI-Powered Virtual Assistant — Full Stack Developer  
+**Tech:** React.js · Node.js · Express.js · Gemini API  
+
+- Built an **AI virtual assistant** that understands voice commands to perform tasks like search, media playback, weather updates, and daily information  
+- Implemented **secure user authentication** and customizable assistant features  
+- Integrated **Gemini API** to generate real-time intelligent responses  
+- Developed **RESTful APIs** to process user commands and automate actions across the application  
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **24th rank** in GeeksforGeeks Problem Solving (CEC)
-- ✅ Solved **225+ DSA problems** on LeetCode
-- 📜 Certified in **MERN Full Stack Development**
-- 📜 Certified in **DSA in Java (Apna College)** and **SQL (Scaler)**
+- 🥇 **24th rank** in GeeksforGeeks Problem Solving (CEC)  
+- ✅ Solved **225+ DSA problems** on LeetCode  
+- 📜 Certified in **MERN Full Stack Development**  
+- 📜 Certified in **DSA in Java (Apna College)**  
+- 📜 Certified in **SQL (Scaler)**  
+
+---
+
+⭐️ From [Amit Kumar Yadav](https://github.com/amitkumaryadav2672)
