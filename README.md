@@ -22,7 +22,7 @@ src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-s
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering undergraduate (2022–2026)
+- 🎓 Computer Science Engineering undergraduate 
 - 🔭 Currently working on **MERN Full Stack Development**
 - 💡 Strong foundation in **Java & Data Structures and Algorithms (225+ problems solved)**
 - 🌱 Actively learning **Artificial Intelligence & Machine Learning**
