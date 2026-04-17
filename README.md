@@ -7,7 +7,7 @@ MERN Full Stack Developer | Java & DSA | AI Enthusiast
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (2022–2026) | Chandigarh Engineering College, Mohali
+* 🎓 B.Tech CSE | Chandigarh Engineering College, Mohali
 * 💻 MERN Stack Developer with hands-on project experience
 * 🧠 Strong in **Data Structures & Algorithms (225+ problems solved)**
 * 🚀 Exploring **AI & Machine Learning**
